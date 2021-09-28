@@ -114,9 +114,7 @@ footer{
     border-radius: var(--default-radius);
 }
 
-#tribute-link{
-    color: #588157;
-}
+
 
 #tribute-link:visited{
     color: #b56576;
