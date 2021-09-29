@@ -48,7 +48,7 @@ html {
 
 #image {
   max-width: 100%;
-  /* display: block; */
+  display: block;
   height: auto;
   margin: 0 auto;
   border-radius: var(--default-radius);
@@ -57,6 +57,7 @@ html {
 #img-div figcaption {
   font-size: 1.3rem;
   font-family: monospace;
+  margin: 1rem auto 1rem auto;
 }
 
 #tribute-info h3 {
